@@ -1,0 +1,32 @@
+Requisite Location Report
+Summary report:
+A11LIVE objects:
+    Objects with requisites in library A11LIVE: 7
+    Objects with requisites in library A11LIVE: 7
+    Objects with requisites in library A11SRC: 13
+
+Detail report:
+A11LIVE objects:
+    Objects with requisites in library A11LIVE:
+        *FILE LF        A11LIVE/CUSMSTL1                    
+        *FILE LF        A11LIVE/CUSMSTL2                    
+        *FILE LF        A11LIVE/CUSMSTL3                    
+        *FILE DSPF      A11LIVE/MNTMENU                     
+        *FILE DSPF      A11LIVE/SCHNAMD                     
+        *FILE DSPF      A11LIVE/SCHZIPD                     
+        *PGM RPGLE      A11LIVE/CUSTMAINT                   
+    Objects with requisites in library A11SRC:
+        *CMD            A11LIVE/CUSTMAINT                   
+        *FILE PF        A11LIVE/CUSMST                      
+        *FILE LF        A11LIVE/CUSMSTL1                    
+        *FILE LF        A11LIVE/CUSMSTL2                    
+        *FILE LF        A11LIVE/CUSMSTL3                    
+        *FILE DSPF      A11LIVE/MAINMENU                    
+        *FILE DSPF      A11LIVE/MNTMENU                     
+        *FILE DSPF      A11LIVE/SCHNAMD                     
+        *FILE DSPF      A11LIVE/SCHZIPD                     
+        *MODULE RPGLE   A11LIVE/CUSMAIN                     
+        *MODULE RPGLE   A11LIVE/CUSMNT                      
+        *MODULE RPGLE   A11LIVE/SCHNAM                      
+        *MODULE RPGLE   A11LIVE/SCHZIP                      
+End of Requisite Location Report.

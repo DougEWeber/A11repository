@@ -1,0 +1,23 @@
+Source Location Report
+Summary report:
+A11LIVE objects:
+    Objects with source in library A11SRC: 14
+
+Detail report:
+A11LIVE objects:
+    Objects with source in library A11SRC:
+        *MODULE RPGLE   A11LIVE/CUSMAIN                     
+        *FILE DSPF      A11LIVE/MAINMENU                    
+        *MODULE RPGLE   A11LIVE/CUSMNT                      
+        *FILE LF        A11LIVE/CUSMSTL1                    
+        *FILE PF        A11LIVE/CUSMST                      
+        *FILE DSPF      A11LIVE/MNTMENU                     
+        *MODULE RPGLE   A11LIVE/SCHNAM                      
+        *FILE LF        A11LIVE/CUSMSTL3                    
+        *FILE DSPF      A11LIVE/SCHNAMD                     
+        *MODULE RPGLE   A11LIVE/SCHZIP                      
+        *FILE LF        A11LIVE/CUSMSTL2                    
+        *FILE DSPF      A11LIVE/SCHZIPD                     
+        *PGM RPGLE      A11LIVE/SCHNAMRPG                   
+        *CMD            A11LIVE/CUSTMAINT                   
+End of Source Location Report.
